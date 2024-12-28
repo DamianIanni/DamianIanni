@@ -39,7 +39,8 @@
 ---
 
 ## 🚀 Projects:
-- 🌟 A **diabetes management app** empowering users to track their health, with over 100 downloads.  
+- 🌟 A **diabetes management app** empowering users to track their health, with over 100 downloads.
+- 🌟 A **social gathering app** built with Kotlin to bring people together.  
 
 ## 🌎 About Me:
 - I’m currently based in **Denmark**, exploring opportunities in Europe.  
