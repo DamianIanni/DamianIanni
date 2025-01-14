@@ -20,6 +20,7 @@
 - **Redux**  
 - **Typescript**
 - **MUI**
+- **Next.js**
 
 ---
 
