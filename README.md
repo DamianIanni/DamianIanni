@@ -1,6 +1,6 @@
 # Hi, I’m Damian Ianni 
 
-🎯 **Mobile App Developer | React Native | Kotlin & Swift Enthusiast**  
+🎯 **Mobile App Developer | Web Developer | React | Kotlin & Swift Enthusiast**  
 
 💻 I specialize in building scalable and user-friendly applications.  
 🚀 I’m passionate about clean, modular, and maintainable code.
