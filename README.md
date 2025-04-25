@@ -43,6 +43,9 @@
 - 🌟 A **diabetes management app** empowering users to track their health, with over 100 downloads.
 - 🌟 A **social gathering app** built with Kotlin to bring people together.  
 
+## 🚀 Ongoing Projects:
+- 🌟 A **luggage packing app** that helps users simplify and streamline packing for any upcoming trip.
+
 ## 🌎 About Me:
 - I’m currently based in **Denmark**, exploring opportunities in Europe.  
 - I love long walks, football, outdoor activities, working out, coffee and .  
