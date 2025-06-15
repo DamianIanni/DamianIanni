@@ -25,6 +25,7 @@
 - **SQL / MySQL**
 - **GraphQL**
 - **Next.js**
+- **Postman**
 
 ---
 
@@ -32,12 +33,10 @@
 - **Swift (iOS)**
 - **Java (Android)**  
 - **Node.js**  
-- **MySQLite**  
 - **Bluetooth BLE APIs**  
 - **MongoDB**
 - **Expo**
 - **React Electron**
-- **Postman**
 
 ---
 
@@ -45,9 +44,9 @@
 - 🌟 A **Diabetes management app** empowering users to track their health, with over 100 downloads.
 - 🌟 A **Social gathering app** built with Kotlin to bring people together.
 - 🌟 A **Luggage packing app** — fullstack app helping users streamline travel packing (React Native + Node.js + SQL).
+- 🌟 A **Habit tracker API** for a habit tracking application, designed to manage users, habits, and daily habit logs.
 
 ## 🚧 Ongoing Projects:
-- 🌟 A **luggage packing app** that helps users simplify and streamline packing for any upcoming trip.
 - Currently building **personal backend projects** (Node.js + SQL) to strengthen my Fullstack profile.
 - Actively learning **testing (unit/integration), API security**, and **best practices in backend architecture.**
 
