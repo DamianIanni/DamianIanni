@@ -1,6 +1,6 @@
 # Hi, I’m Damian Ianni 
 
-🎯 **Mobile Developer | Fullstack Developer in Progress | React Native | Node.js | SQL | React Enthusiast**  
+🎯 **Mobile Developer | Fullstack Developer in Progress**  
 
 💻 I specialize in building scalable, user-friendly mobile applications..  
 🚀 I’m passionate about writing clean, modular, and maintainable code, and continuously improving both frontend and backend skills.
@@ -49,6 +49,8 @@
 ## 🚧 Ongoing Projects:
 - Currently building **personal backend projects** (Node.js + SQL) to strengthen my Fullstack profile.
 - Actively learning **testing (unit/integration), API security**, and **best practices in backend architecture.**
+- Actively learning **Python**
+- NPM package of UI React components
 
 ## 🌎 About Me:
 - Based in **Denmark**, originally from **Argentina** 🇦🇷 🇩🇰.
