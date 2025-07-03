@@ -18,14 +18,15 @@
 ## 🚀 Technologies I'm working with right now:
 - **React Native**  
 - **JavaScript**
+- **Python**
 - **Node.js**
 - **Redux**
 - **Express.js**
 - **Typescript**
 - **SQL / MySQL**
 - **GraphQL**
-- **Next.js**
 - **Postman**
+- **Next.js**
 
 ---
 
@@ -42,15 +43,16 @@
 
 ## 🚀 Projects:
 - 🌟 A **Diabetes management app** empowering users to track their health, with over 100 downloads.
-- 🌟 A **Social gathering app** built with Kotlin to bring people together.
+- 🌟 A **Social gathering game** built with Kotlin to bring people together.
 - 🌟 A **Luggage packing app** — fullstack app helping users streamline travel packing (React Native + Node.js + SQL).
 - 🌟 A **Habit tracker API** for a habit tracking application, designed to manage users, habits, and daily habit logs.
 
 ## 🚧 Ongoing Projects:
 - Currently building **personal backend projects** (Node.js + SQL) to strengthen my Fullstack profile.
 - Actively learning **testing (unit/integration), API security**, and **best practices in backend architecture.**
-- Actively learning **Python**
+- Actively learning **Python**, **ML**
 - NPM package of UI React components
+- Ongoing planning of enhancements to existing projects
 
 ## 🌎 About Me:
 - Based in **Denmark**, originally from **Argentina** 🇦🇷 🇩🇰.
