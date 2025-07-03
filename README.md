@@ -11,7 +11,7 @@
 - **API Integration**, **RESTful APIs**, **Bluetooth BLE**, and **local databases**, **secure authentication** (Firebase)
 - **Server Integration**: Designing and connecting **APIs REST** to mobile applications
 - **Backend Development**: Node.js, Express.js, RESTful APIs, TypeScript
-- **Databases**: MySQL, Railway
+- **Databases**: SQL
 
 ---
 
