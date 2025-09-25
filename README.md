@@ -7,8 +7,8 @@ I'm a Full-Stack Developer with a robust foundation of 3+ years in professional 
 Now fully focused on full-stack roles, I architect and deploy scalable, user-centric applications, leveraging a modern tech stack to solve real-world problems.
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/damian-ianni-b50555205/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="(https://ba-portfolio-delta.vercel.app/)" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/damian-ianni-b50555205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://ba-portfolio-delta.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
