@@ -1,62 +1,63 @@
-# Hi, I’m Damian Ianni 
+# Hi, I'm Damian Ianni 👋
 
-🎯 **Mobile Developer | Fullstack | React Native | Node.js | SQL | TypeScript**  
+### Full-Stack Developer | React | Node.js | TypeScript
 
-💻 I specialize in building scalable, user-friendly mobile applications..  
-🚀 I’m passionate about writing clean, modular, and maintainable code, and continuously improving both frontend and backend skills.
+I'm a Full-Stack Developer with a robust foundation of 3+ years in professional software development, specializing in the mobile ecosystem (React Native). My hands-on experience building, optimizing, and deploying client-side applications provides a deep understanding of the entire product lifecycle.
 
-## 🌟 Key Skills:
-- **Mobile Development**: React Native, JAVA (Android), Swift  
-- **Web Development**: React.js, JavaScript, Next.js, MUI  
-- **API Integration**, **RESTful APIs**, **Bluetooth BLE**, and **local databases**, **secure authentication** (Firebase)
-- **Server Integration**: Designing and connecting **APIs REST** to mobile applications
-- **Backend Development**: Node.js, Express.js, RESTful APIs, TypeScript
-- **Databases**: SQL
+Now fully focused on full-stack roles, I architect and deploy scalable, user-centric applications, leveraging a modern tech stack to solve real-world problems.
+
+<p align="left">
+  <a href="[ENLACE A TU LINKEDIN]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[ENLACE A TU PORTFOLIO]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 Technologies I'm working with right now:
-- **React Native**  
-- **JavaScript**
-- **Python**
-- **Node.js**
-- **Redux**
-- **Express.js**
-- **Typescript**
-- **SQL / MySQL**
-- **GraphQL**
-- **Postman**
-- **Next.js**
+### 🚀 My Tech Stack
+
+A collection of the tools and technologies I use to bring ideas to life.
+
+| Frontend | Backend | Databases | Native Mobile | Tools & DevOps |
+| :---: | :---: | :---: | :---: | :---: |
+| JavaScript (ES6+) | Node.js | PostgreSQL | React Native | Git & GitHub |
+| TypeScript | Express.js | MySQL | Java (Android) | Docker |
+| React | GraphQL (Apollo) | Firebase | Swift (iOS) | Vercel |
+| Next.js | REST APIs | Supabase | BLE | Render |
+| Redux | | | Android Studio | Jest |
+| Tailwind CSS | | | Xcode | Postman |
 
 ---
 
-## 🛠️ Technologies I've used in the past but not right now:
-- **Swift (iOS)**
-- **Java (Android)**  
-- **Node.js**  
-- **Bluetooth BLE APIs**  
-- **MongoDB**
-- **Expo**
-- **React Electron**
+### 💻 Featured Projects
+
+Here are some of the projects I'm most proud of.
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CRM & Server** | Architected a full-stack CRM featuring a **multi-tenant architecture** on Supabase (PostgreSQL) and a secure Node.js backend following the MVC pattern. | `React` `Next.js` `Node.js` `Supabase` `TypeScript` | [Code]([ENLACE AL REPO DEL CRM]) · [Live]([ENLACE A LA DEMO DEL CRM]) |
+| **Packing 76** | Developed an **AI-powered mobile app** (React Native) with a Node.js/GraphQL server, engineering prompts to generate smart, destination-based packing lists. | `React Native` `Node.js` `GraphQL` `MySQL` `AI` | [Code]([ENLACE AL REPO DE PACKING 76]) · [Live]([ENLACE A LA DEMO DE PACKING 76]) |
+| **GluckoTrack** | Developed and published a mobile app for diabetes management to solve a personal need. The app has achieved **over 500 downloads** on the Play Store. | `React Native` `Firebase` `Data Viz` `Android` | [Code]([ENLACE AL REPO DE GLUCKOTRACK]) · [Play Store]([ENLACE A LA APP EN GOOGLE PLAY]) |
+| **App Challenge** | Built a document management app with an **'offline-first' architecture** as a technical hiring challenge, implementing a high-performance cache with MMKV. | `React Native` `MMKV` `Caching` `Webhooks` | [Code]([ENLACE AL REPO DEL APP CHALLENGE]) |
 
 ---
 
-## 🚀 Projects:
-- 🌟 A **Diabetes management app** empowering users to track their health, with over 100 downloads.
-- 🌟 A **Social gathering game** built with Kotlin to bring people together.
-- 🌟 A **Luggage packing app** — fullstack app helping users streamline travel packing (React Native + Node.js + SQL).
-- 🌟 A **Habit tracker API** for a habit tracking application, designed to manage users, habits, and daily habit logs.
+### 🌱 My Professional Roadmap
 
-## 🚧 Ongoing Projects:
-- Currently building **personal backend projects** (Node.js + SQL) to strengthen my Fullstack profile.
-- Actively learning **testing (unit/integration), API security**, and **best practices in backend architecture.**
-- Actively learning **Python**, **ML**
-- NPM package of UI React components
-- Ongoing planning of enhancements to existing projects
+I'm a firm believer in continuous learning. Here's what's currently on my radar:
 
-## 🌎 About Me:
-- Based in **Denmark**, originally from **Argentina** 🇦🇷 🇩🇰.
-- Open to **remote** and **Europe-based** opportunities.
-- I love long walks, football, outdoor activities, working out, and good coffee ☕.  
+- 🚀 Mastering **Go (Golang)** to build high-performance, concurrent backend systems.
+- 👨‍💻 Actively refactoring my [Packing 76 Server]([ENLACE AL REPO DEL SERVER]) from Node.js to Go as a practical case study.
+- 🛡️ Deepening my knowledge in **API Security** and **System Design** best practices.
 
-💬 **Let’s connect and build something great!**
+---
+
+### 📫 Let's Connect!
+
+- **Location:** Remote | Time Zone: GMT-3
+- **Status:** Open to new full-stack opportunities.
+- **Let's build something great together!**
+
+<p align="left">
+  <a href="[ENLACE A TU LINKEDIN]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:damiangussi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
